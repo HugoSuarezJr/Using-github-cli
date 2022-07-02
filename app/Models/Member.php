@@ -46,4 +46,9 @@ class User extends Authenticatable
     {
         return "new method";
     }
+
+    public function Imadechange()
+    {
+        return "";
+    }
 }
